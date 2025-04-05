@@ -1,0 +1,4 @@
+asyncio
+nest_asyncio
+pyrogram
+Tgcrypto
